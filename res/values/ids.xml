@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="pkg_name_et">false</item>
+    <item type="id" name="get_sign_btn">false</item>
+    <item type="id" name="result_tv">false</item>
+    <item type="id" name="error_tv">false</item>
+    <item type="id" name="copy_btn">false</item>
+    <item type="id" name="notice_tv">false</item>
+</resources>
